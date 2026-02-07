@@ -1,14 +1,10 @@
-### ant762_
+I'm ant762_, a multi-stack developer passionate about building efficient solutions across web, game, and software development.
+🛠 Tech Stack
 
-- 🔧 CyberSecurity
-- 🎓 Programming and Software Development
-- 💼 Freelancing - Game Development
-- 🌱 Learning C++, C# and C.
+    Languages: Python, LuaU, JavaScript, C, C#, C++
 
-Languages:
+    Web & Data: HTML5, CSS3, Bootstrap, MySQL, SQLite
 
-Python, Roblox Lua, JavaScript (JSON), MySQL, HTML and CSS.
+    Tools: VS Code, Figma, Trello
 
-Dev:
-
-Roblox Studio, Visual Studio Code, Figma, Trello, SQLiteStudio.
+I am currently specializing myself in Tailwind and ReactJS.
