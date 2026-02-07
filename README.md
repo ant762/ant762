@@ -1,5 +1,6 @@
-I'm ant762_, a multi-stack developer passionate about building efficient solutions across web, game, and software development.
-🛠 Tech Stack
+I'm ant762, a multi-stack developer passionate about building efficient solutions across web, game, and software development.
+
+Tech Stack
 
     Languages: Python, LuaU, JavaScript, C, C#, C++
 
