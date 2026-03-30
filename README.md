@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Initializing+ant762.exe...;Loading+modules...;Backend+Engineer+%7C+Security+%7C+Game+Dev;System+online.+%F0%9F%9F%A2)](https://git.io/typing-svg)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=200&section=header&text=ant762&fontSize=80&fontColor=00FF41&fontAlignY=38&desc=fullstack%20%7C%20backend%20%7C%20security&descAlignY=58&descSize=18&descColor=ffffff&animation=twinkling" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Initializing+ant762.exe...;Loading+modules...;Backend+Engineer+%7C+Security+%7C+Game+Dev;System+online.+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=ant762&color=00ff41&style=flat-square&label=VISITORS)
 [![GitHub followers](https://img.shields.io/github/followers/ant762?color=00ff41&style=flat-square&logo=github&label=Followers)](https://github.com/ant762)
