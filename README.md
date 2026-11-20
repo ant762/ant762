@@ -42,8 +42,8 @@ I thrive when designing efficient **database schemas** and robust **Node.js** en
 | | |
 |---|---|
 | 🔭 **Working at** | `AnivoxWorks Studios` |
-| 🛡️ **Internship** | Infrastructure — network monitoring, threat analysis & hardening |
-| 🎓 **Studying** | Technical course in Systems Analysis & Software Development |
+| 🎓 **Completed** | Industrial apprenticeship — Programação e Sistemas da Informação (Grupo Malwee, 2025–2026) |
+| 🛡️ **Completed** | IT Infrastructure internship — network monitoring (Grupo Malwee, 2026) |
 | 🎮 **On the side** | Roblox / LuaU development |
 | 🌱 **Leveling up** | AI integration · Backend architecture · Security |
 | 📫 **Reach me** | `maik.antunes07@gmail.com` |
@@ -88,8 +88,6 @@ I thrive when designing efficient **database schemas** and robust **Node.js** en
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48" title="Git" alt="git"/></a>
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="48" title="GitHub" alt="github"/></a>
   <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" width="48" title="GitHub Actions" alt="github actions"/></a>
-  <a href="https://eslint.org/"><img src="https://skillicons.dev/icons?i=eslint" width="48" title="ESLint" alt="eslint"/></a>
-  <a href="https://prettier.io/"><img src="https://skillicons.dev/icons?i=prettier" width="48" title="Prettier" alt="prettier"/></a>
   <a href="https://vitest.dev/"><img src="https://skillicons.dev/icons?i=vitest" width="48" title="Vitest" alt="vitest"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="48" title="VS Code" alt="vscode"/></a>
   <br><br>
@@ -121,6 +119,7 @@ I thrive when designing efficient **database schemas** and robust **Node.js** en
 <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="48" title="Linux" alt="linux"/></a>
 <a href="https://www.kali.org/"><img src="https://skillicons.dev/icons?i=kali" width="48" title="Kali Linux" alt="kali"/></a>
 <a href="https://www.redhat.com/"><img src="https://skillicons.dev/icons?i=redhat" width="48" title="Red Hat" alt="redhat"/></a>
+<a href="https://ubuntu.com/server"><img src="https://skillicons.dev/icons?i=ubuntu" width="48" title="Ubuntu Server" alt="ubuntu"/></a>
 
 </details>
 
@@ -146,20 +145,22 @@ I thrive when designing efficient **database schemas** and robust **Node.js** en
 
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
-║                     EXPERIENCE POINTS LOG                         ║
+║                       EXPERIENCE POINTS LOG                       ║
 ╠═══════════════════════════════════════════════════════════════════╣
-║  [2025 - 2027] 🎓  Technical Course                               ║
-║                    Systems Analysis & Software Development        ║
-║                    ► SQL, OOP, web dev, software engineering      ║
+║  [Jan 2025 - Nov 2026] 🎓 Industrial Apprenticeship ✅            ║
+║     Programação e Sistemas da Informação                          ║
+║     Grupo Malwee · Jaraguá do Sul, SC                             ║
+║     ► IT infrastructure, networks & virtualization                ║
+║     ► Hardware maintenance & operating systems                    ║
+║     ► Databases, automation, front/back-end web                   ║
 ║                                                                   ║
-║  [2026 - 2027] 🛡️  Internship — Infrastructure                    ║
-║                    ► Network monitoring & threat analysis         ║
-║                    ► Infrastructure hardening                     ║
-║                    ► Incident response & access control           ║
+║  [Jan 2026 - Nov 2026] 🛡️ Internship — IT Infrastructure ✅     ║
+║     Grupo Malwee · Jaraguá do Sul, SC                             ║
+║     ► Network monitoring                                          ║
 ║                                                                   ║
-║  [Ongoing]     🔨  AnivoxWorks Studios                            ║
-║                    ► Fullstack development                        ║
-║                    ► Backend architecture & APIs                  ║
+║  [Ongoing] 🔨 AnivoxWorks Studios                                 ║
+║     ► Fullstack development                                       ║
+║     ► Backend architecture & APIs                                 ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
