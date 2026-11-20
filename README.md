@@ -55,7 +55,6 @@ I thrive when designing efficient **Database schemas** and robust **Node.js** en
   <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="c"/></a>
   <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="cplusplus"/></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" width="40" height="40" alt="csharp"/></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="php"/></a>
   <a href="https://create.roblox.com/" target="_blank"><img src="https://skillicons.dev/icons?i=lua" width="40" height="40" alt="lua"/></a>
 </p>
 
