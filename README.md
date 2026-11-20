@@ -9,7 +9,7 @@
 ![Profile views](https://img.shields.io/badge/status-building_stuff-00ff41?style=flat-square&logo=statuspage&logoColor=black)
 ![Location](https://img.shields.io/badge/location-Brazil_🇧🇷-00ff41?style=flat-square)
 
-**[🌐 Portfolio](https://ant762.page.gd/?i=1)** · **[💼 LinkedIn](https://br.linkedin.com/in/maik-antunes-6062aa355)** · **[📫 Email](mailto:maik.antunes07@gmail.com)** · **[💬 Discord](https://discord.com/invite/8RWXPGsjcj)**
+**[🌐 Portfolio](https://ant762.vercel.app)** · **[💼 LinkedIn](https://br.linkedin.com/in/maik-antunes-6062aa355)** · **[📫 Email](mailto:maik.antunes07@gmail.com)** · **[💬 Discord](https://discord.com/invite/8RWXPGsjcj)**
 
 </div>
 
@@ -78,12 +78,25 @@ I thrive when designing efficient **database schemas** and robust **Node.js** en
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="48" title="HTML5" alt="html5"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="48" title="CSS3" alt="css3"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" title="JavaScript" alt="javascript"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="48" title="TypeScript" alt="typescript"/></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="48" title="React" alt="react"/></a>
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="48" title="Next.js" alt="nextjs"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="48" title="Tailwind CSS" alt="tailwind"/></a>
+  <a href="https://threejs.org/"><img src="https://skillicons.dev/icons?i=threejs" width="48" title="Three.js" alt="threejs"/></a>
+  <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" width="48" title="Vercel" alt="vercel"/></a>
   <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="48" title="Figma" alt="figma"/></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48" title="Git" alt="git"/></a>
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="48" title="GitHub" alt="github"/></a>
-  <a href="https://pages.github.com/"><img src="https://skillicons.dev/icons?i=githubactions" width="48" title="GitHub Actions" alt="github actions"/></a>
-  <a href="https://www.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" title="Cloudflare" alt="cloudflare"/></a>
+  <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" width="48" title="GitHub Actions" alt="github actions"/></a>
+  <a href="https://eslint.org/"><img src="https://skillicons.dev/icons?i=eslint" width="48" title="ESLint" alt="eslint"/></a>
+  <a href="https://prettier.io/"><img src="https://skillicons.dev/icons?i=prettier" width="48" title="Prettier" alt="prettier"/></a>
+  <a href="https://vitest.dev/"><img src="https://skillicons.dev/icons?i=vitest" width="48" title="Vitest" alt="vitest"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="48" title="VS Code" alt="vscode"/></a>
+  <br><br>
+  <a href="https://gsap.com/"><img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP"/></a>
+  <a href="https://lenis.darkroom.engineering/"><img src="https://img.shields.io/badge/Lenis-smooth_scroll-00ff41?style=for-the-badge&labelColor=0d0d0d" alt="Lenis"/></a>
+  <a href="https://threejs.org/"><img src="https://img.shields.io/badge/WebGL-shaders-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL"/></a>
+  <img src="https://img.shields.io/badge/Web_Audio-API-00ff41?style=for-the-badge&labelColor=0d0d0d" alt="Web Audio"/>
 </p>
 
 </details>
@@ -167,13 +180,33 @@ I thrive when designing efficient **database schemas** and robust **Node.js** en
 
 </div>
 
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ant762&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ant762/ant762/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ant762/ant762/output/github-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ant762/ant762/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
 ---
 
 ## `[🚀]` Featured
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_my_Portfolio-ant762.page.gd-00ff41?style=for-the-badge&labelColor=0d0d0d)](https://ant762.page.gd/?i=1)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_my_Portfolio-ant762.vercel.app-00ff41?style=for-the-badge&labelColor=0d0d0d)](https://ant762.vercel.app)
 
 </div>
 
@@ -181,10 +214,15 @@ I thrive when designing efficient **database schemas** and robust **Node.js** en
 <summary><b>🔎 What's inside the portfolio?</b></summary>
 <br>
 
-- 🎨 Minimalist, high-performance frontend (HTML · CSS · JavaScript)
-- 🧩 Layout prototyped in **Figma**
-- 🔀 Versioned with **Git** & hosted on **GitHub**
-- ☁️ Delivered through **Cloudflare**
+| Layer | Tools |
+|---|---|
+| **Framework** | Next.js (App Router) · React · TypeScript (strict) |
+| **Styling** | Tailwind CSS 4 |
+| **Motion & 3D** | GSAP + ScrollTrigger · Three.js (WebGL shader background) · Lenis smooth scroll · Web Audio |
+| **Fonts** | Bricolage Grotesque · Cinzel · JetBrains Mono · UnifrakturCook |
+| **Quality** | ESLint · Prettier · Vitest · Conventional Commits |
+| **CI/CD** | GitHub Actions · Dependabot · Vercel |
+| **i18n** | 🇺🇸 EN · 🇪🇸 ES · 🇧🇷 PT |
 
 </details>
 
@@ -199,7 +237,7 @@ I thrive when designing efficient **database schemas** and robust **Node.js** en
 [![Instagram](https://img.shields.io/badge/Instagram-ant762__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ant762_)
 [![Discord](https://img.shields.io/badge/Discord-ant762__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/8RWXPGsjcj)
 [![Email](https://img.shields.io/badge/Email-maik.antunes07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maik.antunes07@gmail.com)
-[![Website](https://img.shields.io/badge/Website-ant762.vercel.app-00ff41?style=for-the-badge&logo=firefox&logoColor=black)](https://ant762.vercel.app/?i=1)
+[![Website](https://img.shields.io/badge/Website-ant762.vercel.app-00ff41?style=for-the-badge&logo=firefox&logoColor=black)](https://ant762.vercel.app)
 
 </div>
 
