@@ -199,7 +199,7 @@ I thrive when designing efficient **database schemas** and robust **Node.js** en
 [![Instagram](https://img.shields.io/badge/Instagram-ant762__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ant762_)
 [![Discord](https://img.shields.io/badge/Discord-ant762__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/8RWXPGsjcj)
 [![Email](https://img.shields.io/badge/Email-maik.antunes07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maik.antunes07@gmail.com)
-[![Website](https://img.shields.io/badge/Website-ant762.page.gd-00ff41?style=for-the-badge&logo=firefox&logoColor=black)](https://ant762.page.gd/?i=1)
+[![Website](https://img.shields.io/badge/Website-ant762.vercel.app-00ff41?style=for-the-badge&logo=firefox&logoColor=black)](https://ant762.vercel.app/?i=1)
 
 </div>
 
