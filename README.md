@@ -21,8 +21,8 @@
 ║    Name   : Maik Antunes                                         ║
 ║    Handle : ant762                                               ║
 ║    Role   : Fullstack Developer                                  ║
-║    Focus  : Backend · Security Infra · Game Dev                  ║
-║    Status : [ ████████████░░░░ ] Building stuff...              ║
+║    Focus  : Backend · Infra · Game Dev                           ║
+║    Status : [ ████████████░░░░ ] Building stuff...               ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -37,7 +37,7 @@ I'm a developer driven by **logic**, **complex systems**, and the challenge of b
 I thrive when designing efficient **Database schemas** and robust **Node.js** environments. While I'm a backend-first developer, I still enjoy crafting high-performance, minimalist frontends. I also build experiences inside **Roblox Studio** using **LuaU**.
 
 - 🔭 Currently working at `AnivoxWorks Studios`
-- 🛡️ **Security Infrastructure Intern** — network monitoring, threat analysis & infrastructure hardening
+- 🛡️ **Infrastructure Intern** — network monitoring, threat analysis & infrastructure hardening
 - 🎓 Technical course in **Systems Analysis & Software Development**
 - 🎮 Roblox / LuaU developer on the side
 - 📫 Reach me at `maik.antunes07@gmail.com`
@@ -77,7 +77,7 @@ I thrive when designing efficient **Database schemas** and robust **Node.js** en
   </a>
 </p>
 
-### 🛡️ Security & Infrastructure
+### 🛡️ Infrastructure
 
 <p align="left">
   <a href="https://www.cloudflare.com/" target="_blank">
@@ -112,10 +112,10 @@ I thrive when designing efficient **Database schemas** and robust **Node.js** en
 ║                     EXPERIENCE POINTS LOG                         ║
 ╠═══════════════════════════════════════════════════════════════════╣
 ║  [2025 - 2027] 🎓  Technical Course                               ║
-║                    Systems Analysis & Software Development         ║
+║                    Systems Analysis & Software Development        ║
 ║                    ► SQL, OOP, web dev, software engineering      ║
 ║                                                                   ║
-║  [2026 - 2027] 🛡️  Internship — Security Infrastructure          ║
+║  [2026 - 2027] 🛡️  Internship — Infrastructure                    ║
 ║                    ► Network monitoring & threat analysis         ║
 ║                    ► Infrastructure hardening                     ║
 ║                    ► Incident response & access control           ║
