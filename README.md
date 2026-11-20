@@ -88,8 +88,6 @@ I thrive when designing efficient **database schemas** and robust **Node.js** en
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48" title="Git" alt="git"/></a>
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="48" title="GitHub" alt="github"/></a>
   <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" width="48" title="GitHub Actions" alt="github actions"/></a>
-  <a href="https://eslint.org/"><img src="https://skillicons.dev/icons?i=eslint" width="48" title="ESLint" alt="eslint"/></a>
-  <a href="https://prettier.io/"><img src="https://skillicons.dev/icons?i=prettier" width="48" title="Prettier" alt="prettier"/></a>
   <a href="https://vitest.dev/"><img src="https://skillicons.dev/icons?i=vitest" width="48" title="Vitest" alt="vitest"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="48" title="VS Code" alt="vscode"/></a>
   <br><br>
