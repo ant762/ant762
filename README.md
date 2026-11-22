@@ -1,253 +1,89 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=200&section=header&text=ant762&fontSize=80&fontColor=00FF41&fontAlignY=38&desc=fullstack%20%7C%20backend%20%7C%20security&descAlignY=58&descSize=18&descColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=180&section=header&text=Maik%20Antunes&fontSize=64&fontColor=00FF41&fontAlignY=40&desc=Fullstack%20Developer%20%E2%80%A2%20Backend%20%E2%80%A2%20Infra%20%E2%80%A2%20Game%20Dev&descAlignY=62&descSize=18&descColor=ffffff" alt="Maik Antunes — ant762" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Initializing+ant762.exe...;Loading+modules...;Backend+Engineer+%7C+Security+%7C+Game+Dev;Hover%2C+click%2C+expand+%E2%80%94+this+README+is+interactive;System+online.+%F0%9F%9F%A2)](https://git.io/typing-svg)
+<br>
 
-![](https://komarev.com/ghpvc/?username=ant762&color=00ff41&style=flat-square&label=VISITORS)
-[![GitHub followers](https://img.shields.io/github/followers/ant762?color=00ff41&style=flat-square&logo=github&label=Followers)](https://github.com/ant762)
-![Profile views](https://img.shields.io/badge/status-building_stuff-00ff41?style=flat-square&logo=statuspage&logoColor=black)
-![Location](https://img.shields.io/badge/location-Brazil_🇧🇷-00ff41?style=flat-square)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ant762.vercel.app-00ff41?style=for-the-badge&labelColor=0d0d0d)](https://ant762.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maik_Antunes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/maik-antunes-6062aa355)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maik.antunes07@gmail.com)
 
-**[🌐 Portfolio](https://ant762.vercel.app)** · **[💼 LinkedIn](https://br.linkedin.com/in/maik-antunes-6062aa355)** · **[📫 Email](mailto:maik.antunes07@gmail.com)** · **[💬 Discord](https://discord.com/invite/8RWXPGsjcj)**
+<br>
 
-</div>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  > whoami                                                        ║
-║                                                                  ║
-║    Name   : Maik Antunes                                         ║
-║    Handle : ant762                                               ║
-║    Role   : Fullstack Developer                                  ║
-║    Focus  : Backend · Infra · Game Dev                           ║
-║    Status : [ ████████████░░░░ ] Building stuff...               ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+[**About**](#about) · [**Featured**](#featured) · [**Stack**](#stack) · [**Experience**](#experience) · [**Stats**](#stats) · [**Contact**](#contact)
 
 </div>
 
 ---
 
-## `[📌]` About Me
+## About
 
-I'm a developer driven by **logic**, **complex systems**, and the challenge of building scalable server-side architectures. My core focus lies in **Backend Engineering** and **Data Management**, with a growing passion for integrating **AI-driven solutions** into modern applications.
+Backend-first developer from Brazil 🇧🇷. I like logic, complex systems and scalable server-side architecture: database schemas, Node.js services and clean APIs. I also build minimalist, high-performance frontends and game experiences in **Roblox Studio** with **Luau**.
 
-I thrive when designing efficient **database schemas** and robust **Node.js** environments. While I'm a backend-first developer, I still enjoy crafting high-performance, minimalist frontends. I also build experiences inside **Roblox Studio** using **LuaU**.
+- 🔭 Working at **AnivoxWorks Studios**
+- 🌱 Leveling up in AI integration, backend architecture and security
+- 📫 `maik.antunes07@gmail.com`
+
+---
+
+## Featured
+
+### 🌐 [Personal Portfolio](https://ant762.vercel.app)
+
+Interactive portfolio with WebGL shader background, scroll-driven motion and sound, available in English, Spanish and Portuguese.
 
 | | |
 |---|---|
-| 🔭 **Working at** | `AnivoxWorks Studios` |
-| 🎓 **Completed** | Industrial apprenticeship — Programação e Sistemas da Informação (Grupo Malwee, 2025–2026) |
-| 🛡️ **Completed** | IT Infrastructure internship — network monitoring (Grupo Malwee, 2026) |
-| 🎮 **On the side** | Roblox / LuaU development |
-| 🌱 **Leveling up** | AI integration · Backend architecture · Security |
-| 📫 **Reach me** | `maik.antunes07@gmail.com` |
+| **Core** | Next.js (App Router) · React · TypeScript (strict) |
+| **Style & motion** | Tailwind CSS 4 · GSAP · Three.js · Lenis · Web Audio |
+| **Quality & CI/CD** | ESLint · Prettier · Vitest · GitHub Actions · Dependabot · Vercel |
+
+[![Live site](https://img.shields.io/badge/Live-ant762.vercel.app-00ff41?style=flat-square&labelColor=0d0d0d)](https://ant762.vercel.app)
 
 ---
 
-## `[🧑‍💻]` How I Work
+## Stack
 
-> 👇 **Click each category to expand.** Hover an icon to see the name.
-
-<details open>
-<summary><b>♣️ Backend & Database</b></summary>
-<br>
-
-<p align="left">
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="48" title="Node.js" alt="nodejs"/></a>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="48" title="Python" alt="python"/></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="48" title="MySQL" alt="mysql"/></a>
-  <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="48" title="C" alt="c"/></a>
-  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="48" title="C++" alt="cplusplus"/></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" width="48" title="C#" alt="csharp"/></a>
-  <a href="https://www.lua.org/"><img src="https://skillicons.dev/icons?i=lua" width="48" title="Lua / LuaU" alt="lua"/></a>
-</p>
-
-</details>
-
-<details open>
-<summary><b>♠️ Frontend & Portfolio Stack</b></summary>
-<br>
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="48" title="HTML5" alt="html5"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="48" title="CSS3" alt="css3"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" title="JavaScript" alt="javascript"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="48" title="TypeScript" alt="typescript"/></a>
-  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="48" title="React" alt="react"/></a>
-  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="48" title="Next.js" alt="nextjs"/></a>
-  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="48" title="Tailwind CSS" alt="tailwind"/></a>
-  <a href="https://threejs.org/"><img src="https://skillicons.dev/icons?i=threejs" width="48" title="Three.js" alt="threejs"/></a>
-  <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" width="48" title="Vercel" alt="vercel"/></a>
-  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="48" title="Figma" alt="figma"/></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48" title="Git" alt="git"/></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="48" title="GitHub" alt="github"/></a>
-  <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" width="48" title="GitHub Actions" alt="github actions"/></a>
-  <a href="https://vitest.dev/"><img src="https://skillicons.dev/icons?i=vitest" width="48" title="Vitest" alt="vitest"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="48" title="VS Code" alt="vscode"/></a>
-  <br><br>
-  <a href="https://gsap.com/"><img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP"/></a>
-  <a href="https://lenis.darkroom.engineering/"><img src="https://img.shields.io/badge/Lenis-smooth_scroll-00ff41?style=for-the-badge&labelColor=0d0d0d" alt="Lenis"/></a>
-  <a href="https://threejs.org/"><img src="https://img.shields.io/badge/WebGL-shaders-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL"/></a>
-  <img src="https://img.shields.io/badge/Web_Audio-API-00ff41?style=for-the-badge&labelColor=0d0d0d" alt="Web Audio"/>
-</p>
-
-</details>
-
-<details>
-<summary><b>🎮 Game Dev</b></summary>
-<br>
-
-<a href="https://create.roblox.com/"><img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio"/></a>
-<a href="https://luau-lang.org/"><img src="https://img.shields.io/badge/LuaU-00A2FF?style=for-the-badge&logo=lua&logoColor=white" alt="LuaU"/></a>
-
-</details>
-
-<details>
-<summary><b>🛡️ Infrastructure & Security</b></summary>
-<br>
-
-<a href="https://www.cloudflare.com/"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/></a>
-<a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/></a>
-<a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/></a>
-<br><br>
-<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="48" title="Linux" alt="linux"/></a>
-<a href="https://www.kali.org/"><img src="https://skillicons.dev/icons?i=kali" width="48" title="Kali Linux" alt="kali"/></a>
-<a href="https://www.redhat.com/"><img src="https://skillicons.dev/icons?i=redhat" width="48" title="Red Hat" alt="redhat"/></a>
-<a href="https://ubuntu.com/server"><img src="https://skillicons.dev/icons?i=ubuntu" width="48" title="Ubuntu Server" alt="ubuntu"/></a>
-
-</details>
-
-<details>
-<summary><b>♦️ Design & Workflow</b></summary>
-<br>
-
-<p align="left">
-  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" width="48" title="Photoshop" alt="photoshop"/></a>
-  <a href="https://www.adobe.com/products/premiere.html"><img src="https://skillicons.dev/icons?i=pr" width="48" title="Premiere Pro" alt="premiere"/></a>
-  <a href="https://www.notion.com/"><img src="https://skillicons.dev/icons?i=notion" width="48" title="Notion" alt="notion"/></a>
-  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="48" title="Figma" alt="figma"/></a>
-</p>
-
-</details>
-
----
-
-## `[🕹️]` XP Log
-
-<details open>
-<summary><b>▶ Click to expand / collapse the quest log</b></summary>
-
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║                       EXPERIENCE POINTS LOG                       ║
-╠═══════════════════════════════════════════════════════════════════╣
-║  [Jan 2025 - Nov 2026] 🎓 Industrial Apprenticeship ✅            ║
-║     Programação e Sistemas da Informação                          ║
-║     Grupo Malwee · Jaraguá do Sul, SC                             ║
-║     ► IT infrastructure, networks & virtualization                ║
-║     ► Hardware maintenance & operating systems                    ║
-║     ► Databases, automation, front/back-end web                   ║
-║                                                                   ║
-║  [Jan 2026 - Nov 2026] 🛡️ Internship — IT Infrastructure ✅     ║
-║     Grupo Malwee · Jaraguá do Sul, SC                             ║
-║     ► Network monitoring                                          ║
-║                                                                   ║
-║  [Ongoing] 🔨 AnivoxWorks Studios                                 ║
-║     ► Fullstack development                                       ║
-║     ► Backend architecture & APIs                                 ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
-</details>
-
----
-
-## `[📊]` My Stats
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ant762&theme=dark&hide_border=true&background=0d0d0d&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff41&sideLabels=00ff41&dates=ffffff)](https://git.io/streak-stats)
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ant762&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=ffffff" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ant762&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=ffffff" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ant762&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" width="95%" />
-
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy-theta-pink-91.vercel.app/?username=ant762&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ant762/ant762/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ant762/ant762/output/github-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ant762/ant762/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-## `[🚀]` Featured
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_my_Portfolio-ant762.vercel.app-00ff41?style=for-the-badge&labelColor=0d0d0d)](https://ant762.vercel.app)
-
-</div>
-
-<details>
-<summary><b>🔎 What's inside the portfolio?</b></summary>
-<br>
-
-| Layer | Tools |
+| | |
 |---|---|
-| **Framework** | Next.js (App Router) · React · TypeScript (strict) |
-| **Styling** | Tailwind CSS 4 |
-| **Motion & 3D** | GSAP + ScrollTrigger · Three.js (WebGL shader background) · Lenis smooth scroll · Web Audio |
-| **Fonts** | Bricolage Grotesque · Cinzel · JetBrains Mono · UnifrakturCook |
-| **Quality** | ESLint · Prettier · Vitest · Conventional Commits |
-| **CI/CD** | GitHub Actions · Dependabot · Vercel |
-| **i18n** | 🇺🇸 EN · 🇪🇸 ES · 🇧🇷 PT |
-
-</details>
+| **Backend & Data** | <img src="https://skillicons.dev/icons?i=nodejs,py,mysql,c,cpp,cs,lua" alt="Node.js, Python, MySQL, C, C++, C#, Lua" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind, Three.js" /> |
+| **Tools & Workflow** | <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,vitest,vscode,figma,notion,ps,pr" alt="Git, GitHub, GitHub Actions, Vercel, Vitest, VS Code, Figma, Notion, Photoshop, Premiere" /> |
+| **Infra & Security** | <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,redhat" alt="Linux, Kali, Ubuntu, Red Hat" /> <br> ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) |
+| **Game Dev** | ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=flat-square&logo=roblox&logoColor=white) ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=lua&logoColor=white) |
 
 ---
 
-## `[🔗]` Connect
+## Experience
+
+| Period | Role | Where |
+|---|---|---|
+| Ongoing | Fullstack development, backend architecture & APIs | AnivoxWorks Studios |
+| 2025 – 2026 | Industrial Apprenticeship — Programação e Sistemas da Informação (IT infrastructure, networks, databases, automation, web) | Grupo Malwee · Jaraguá do Sul, SC |
+| 2026 | IT Infrastructure Internship — network monitoring | Grupo Malwee · Jaraguá do Sul, SC |
+
+---
+
+## Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ant762&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=ffffff" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ant762&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=ffffff" alt="Top languages" />
+
+</div>
+
+---
+
+## Contact
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-ant762-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ant762)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maik_Antunes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/maik-antunes-6062aa355)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/8RWXPGsjcj)
 [![Instagram](https://img.shields.io/badge/Instagram-ant762__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ant762_)
-[![Discord](https://img.shields.io/badge/Discord-ant762__-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/8RWXPGsjcj)
-[![Email](https://img.shields.io/badge/Email-maik.antunes07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maik.antunes07@gmail.com)
-[![Website](https://img.shields.io/badge/Website-ant762.vercel.app-00ff41?style=for-the-badge&logo=firefox&logoColor=black)](https://ant762.vercel.app)
 
-</div>
-
----
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1500&color=00FF41&center=true&vCenter=true&width=600&lines=thanks+for+visiting+my+profile+👾;now+go+touch+grass+lol;...just+kidding.+stay+and+check+my+repos)](https://git.io/typing-svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=100&section=footer" alt="" />
 
 </div>
