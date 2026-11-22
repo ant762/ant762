@@ -81,8 +81,6 @@ Interactive portfolio with WebGL shader background, scroll-driven motion and sou
 
 [![GitHub](https://img.shields.io/badge/GitHub-ant762-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ant762)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maik_Antunes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/maik-antunes-6062aa355)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/8RWXPGsjcj)
-[![Instagram](https://img.shields.io/badge/Instagram-ant762__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ant762_)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=100&section=footer" alt="" />
 
